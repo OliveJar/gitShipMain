@@ -1,6 +1,6 @@
 //Cargo manifest
 ArrayList<String> cargo = new ArrayList<String>();
 
-void loadCargo(){
+void loadCargo(){ 
   cargo.add("Blueprints for GLaDOS");
 }
